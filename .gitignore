@@ -1,0 +1,9 @@
+/node_modules
+bundle.js
+npm-debug.log
+/.c9
+haters
+
+# IntelliJ
+*.iml
+/.idea
