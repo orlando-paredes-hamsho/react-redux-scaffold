@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Scaffold for developing apps with react and redux",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:orlando-paredes-hamsho/react-redux-scaffold.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
@@ -29,6 +29,7 @@
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
     "react-router": "^2.0.1",
+    "react-addons-css-transition-group": "^15.0.1",
     "redux": "^3.0.4"
   }
 }
