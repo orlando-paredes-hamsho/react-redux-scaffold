@@ -1,5 +1,9 @@
 # React Redux Scaffold
 
+## About ##
+
+Scaffold for developing apps with react and redux
+
 ## Install ##
 
 From your terminal run:
@@ -25,7 +29,7 @@ From your terminal run:
 Or in cloud 9:
 
 ```bash
-    webpack-dev-server  --host $IP --port $PORT  --hot --inline
+    npm run cloud
 ```
 
 ## Before Working on the file ##
@@ -43,8 +47,3 @@ Then once it's downloaded
 ```
 
 This will get your files up to date and you will be able to continue working.
-
-
-## To add a new slide ##
-
-Just add a new jsx file inside of src/components/slides the loader will get it from there.
